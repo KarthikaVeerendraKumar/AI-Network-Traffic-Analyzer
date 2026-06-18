@@ -30,10 +30,6 @@ NSL-KDD Intrusion Detection Dataset
 * Algorithm: Random Forest Classifier
 * Accuracy: 99.76%
 
-  ## Dashboard Preview
-
-![Dashboard](screenshots/dashboard_metrics.png)
-
 ## Project Structure
 
 AI_Network_Traffic_Analyzer/
